@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-//const baseURL = 'https://todoih.herokuapp.com/auth'
-const baseURL = 'http://localhost:3000/tasks'
+const baseURL = 'https://todoih.herokuapp.com/auth'
+    //const baseURL = 'http://localhost:3000/tasks'
 
 
 const service = axios.create({ withCredentials: true, baseURL });
