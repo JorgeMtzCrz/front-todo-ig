@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = 'https://todoih.herokuapp.com/auth'
+const baseURL = 'https://todoih.herokuapp.com/tasks'
     //const baseURL = 'http://localhost:3000/tasks'
 
 
