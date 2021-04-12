@@ -42,7 +42,7 @@ export default function Login({history}) {
   return (
     <Box as="main" display="flex" alignItems="center" alignContent="center" flexDirection="column" justifyContent="center" boxSizing="border-box" h="85vh" w="100%">
           <Heading as="h2"  size="lg" mb={5}>
-              Welcome to Ironhack TODO
+              Welcome to Best Deal Denver CMS
           </Heading>
     
           <Heading as="h3" size="lg" mb={5}>
